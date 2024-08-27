@@ -1,0 +1,10 @@
+D:\Assigment1\HealthcareManagementSystem\CMS\CMS\obj\Debug\CMS.csproj.AssemblyReference.cache
+D:\Assigment1\HealthcareManagementSystem\CMS\CMS\obj\Debug\CMS.csproj.CoreCompileInputs.cache
+D:\Assigment1\HealthcareManagementSystem\CMS\CMS\bin\Debug\CMS.exe.config
+D:\Assigment1\HealthcareManagementSystem\CMS\CMS\bin\Debug\CMS.exe
+D:\Assigment1\HealthcareManagementSystem\CMS\CMS\bin\Debug\CMS.pdb
+D:\Assigment1\HealthcareManagementSystem\CMS\CMS\bin\Debug\SqlServerConnectionLibrary.dll
+D:\Assigment1\HealthcareManagementSystem\CMS\CMS\bin\Debug\SqlServerConnectionLibrary.pdb
+D:\Assigment1\HealthcareManagementSystem\CMS\CMS\obj\Debug\CMS.csproj.Up2Date
+D:\Assigment1\HealthcareManagementSystem\CMS\CMS\obj\Debug\CMS.exe
+D:\Assigment1\HealthcareManagementSystem\CMS\CMS\obj\Debug\CMS.pdb
